@@ -18,16 +18,19 @@ An end-to-end computer vision pipeline for detecting surface defects in canned f
 ```bash
 git clone https://github.com/yourusername/defect-detection.git
 cd defect-detection
+```
 
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 **## Dataset Preparation **
 
 1. Download dataset from RoboFlow:
 ```bash
 https://universe.roboflow.com/canned-food-surface-defect-classification/canned-food-surface-defect/dataset/6
+```
 
 2. Organize dataset structure:
 canned-food-dataset/
@@ -45,6 +48,7 @@ canned-food-dataset/
 Run the complete training process:
 ```bash
 python Defect_Detection_Pipeline.py --dataset_path path/to/canned-food-dataset
+```
 
 **Outputs:**
 
