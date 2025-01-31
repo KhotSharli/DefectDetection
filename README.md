@@ -1,7 +1,8 @@
 
 # Defect Detection in Canned Food - Computer Vision Pipeline
 
-![Example Output](assets/sample_prediction.png)
+![Screenshot 2025-01-31 184247](https://github.com/user-attachments/assets/1c3b6ae3-a016-401d-978b-8979b9df742a)
+
 
 An end-to-end computer vision pipeline for detecting surface defects in canned food products, developed as part of Oneture Technologies' Data Science assignment.
 
