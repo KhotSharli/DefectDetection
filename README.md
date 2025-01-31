@@ -111,4 +111,3 @@ Check the `defect-detection.ipynb` for a complete workflow, including:
 
 ## References
 [Canned Food Surface Defect Dataset](https://universe.roboflow.com/canned-food-surface-defect-classification/canned-food-surface-defect/dataset/6)
-```
