@@ -109,11 +109,6 @@ Check the `defect-detection.ipynb` for a complete workflow, including:
 - Training progress visualization
 - Model performance comparison
 
-## License
-CC BY 4.0 - Match dataset license requirements
-
 ## References
 [Canned Food Surface Defect Dataset](https://universe.roboflow.com/canned-food-surface-defect-classification/canned-food-surface-defect/dataset/6)
 ```
-
-This markdown format should display properly on GitHub or any other markdown-compatible platform. Let me know if you'd like to add or modify anything!
